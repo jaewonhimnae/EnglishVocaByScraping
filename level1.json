@@ -1,0 +1,146 @@
+
+ [
+    {
+        "id": "1",
+        "voca": "burn",
+        "simple": "burned",
+        "past": "burnt",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/b/bur/burn_/burn_British_English_pronunciation_72454.mp3"
+    },
+    {
+        "id": "2",
+        "voca": "arise",
+        "simple": "arose",
+        "past": "arisen",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/a/ari/arise/arise_British_English_pronunciation_65838.mp3"
+    },
+    {
+        "id": "3",
+        "voca": "be",
+        "simple": "was",
+        "past": "been",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/b/be_/be_Br/be_British_English_pronunciation.mp3"
+    },
+    {
+        "id": "4",
+        "voca": "bind",
+        "simple": "bound",
+        "past": "bound",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/b/bli/blind/blind_British_English_pronunciation_71247.mp3"
+    },
+    {
+        "id": "5",
+        "voca": "build",
+        "simple": "built",
+        "past": "built",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/b/bui/build/build_British_English_pronunciation_72305.mp3"
+    }
+    ,
+    {
+        "id": "6",
+        "voca": "catch",
+        "simple": "caught",
+        "past": "caught",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/c/cat/catch/catch_British_English_pronunciation_66879.mp3"
+    },
+    {
+        "id": "7",
+        "voca": "cling",
+        "simple": "clung",
+        "past": "clung",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/c/cli/cling/cling_British_English_pronunciation_67888.mp3"
+    },
+    {
+        "id": "8",
+        "voca": "deal",
+        "simple": "dealt",
+        "past": "dealt",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/d/dea/deal_/deal_British_English_pronunciation_72923.mp3"
+    },
+    {
+        "id": "9",
+        "voca": "eat",
+        "simple": "ate",
+        "past": "eaten",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/e/eat/eat_B/eat_British_English_pronunciation_75265.mp3"
+    }
+    ,
+    {
+        "id": "10",
+        "voca": "find",
+        "simple": "found",
+        "past": "found",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/f/fin/find_/find_British_English_pronunciation_77274.mp3"
+    },
+    {
+        "id": "11",
+        "voca": "grow",
+        "simple": "grew",
+        "past": "grown",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/g/gro/grow_/grow_British_English_pronunciation_80046.mp3"
+    },
+    {
+        "id": "12",
+        "voca": "hold",
+        "simple": "held",
+        "past": "held",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/h/hol/hold_/hold_British_English_pronunciation_81595.mp3"
+    },
+    {
+        "id": "13",
+        "voca": "hurt",
+        "simple": "hurt",
+        "past": "hurt",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/h/hur/hurt_/hurt_British_English_pronunciation_82093.mp3"
+    },
+    {
+        "id": "14",
+        "voca": "mistake",
+        "simple": "mistook",
+        "past": "mistaken",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/m/mis/mista/mistake_British_English_pronunciation_87294.mp3"
+    },
+    {
+        "id": "15",
+        "voca": "set",
+        "simple": "set",
+        "past": "set",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/s/set/set_B/set_British_English_pronunciation_97308.mp3"
+    },
+    {
+        "id": "16",
+        "voca": "bind",
+        "simple": "bound",
+        "past": "bound",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/b/bin/bind_/bind_British_English_pronunciation_70999.mp3"
+    },
+    {
+        "id": "17",
+        "voca": "tell",
+        "simple": "told",
+        "past": "told",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/t/tel/tell_/tell_British_English_pronunciation_101683.mp3"
+    },
+    {
+        "id": "18",
+        "voca": "throw",
+        "simple": "threw",
+        "past": "thrown",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/t/thr/throw/throw_British_English_pronunciation_102129.mp3"
+    },
+    {
+        "id": "19",
+        "voca": "seek",
+        "simple": "sought",
+        "past": "sought",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/s/see/seek_/seek_British_English_pronunciation_96996.mp3"
+    },
+    {
+        "id": "20",
+        "voca": "rise",
+        "simple": "rose",
+        "past": "risen",
+        "mp3": "https://www.macmillandictionary.com/media/british/uk_pron/r/ris/rise_/rise_British_English_pronunciation_95370.mp3"
+    }
+
+]
